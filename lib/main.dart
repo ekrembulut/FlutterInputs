@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_inputs_1/flutter_input.dart';
+import 'package:flutter_inputs_1/flutterdoc.dart';
 
 void main() => runApp(MyApp());
 
