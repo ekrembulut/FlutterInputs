@@ -60,6 +60,7 @@ class _FlutterInputState extends State<FlutterInput> {
           child: Column(
             children: [
               TextField(
+                
                 showCursor: true,
                 // obscureText: true, -> şifreler için kullanılabilir
                 // obscuringCharacter: "*",
